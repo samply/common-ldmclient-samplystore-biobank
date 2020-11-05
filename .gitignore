@@ -1,0 +1,5 @@
+.idea/
+test/
+resources/
+target/
+*.iml

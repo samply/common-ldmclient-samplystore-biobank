@@ -52,7 +52,7 @@
     </distributionManagement>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <common-ldmclient.version>6.0.0</common-ldmclient.version>
+        <common-ldmclient.version>6.0.1</common-ldmclient.version>
         <slf4j-api.version>1.7.32</slf4j-api.version>
         <httpclient.version>4.5.13</httpclient.version>
     </properties>
